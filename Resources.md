@@ -1,6 +1,6 @@
 Here is a list of resources we are using to develop this project. 
 
-###Scientific guidelines:
+### Scientific guidelines:
 
 - This is a comprehensive analysis from the World Cancer Research Fund of the worldwide body of evidence on preventing and surviving cancer through nutrition and physical activity: [Summary of the Third Expert Report.](https://www.wcrf.org/dietandcancer/a-summary-of-the-third-expert-report/)
 
@@ -8,11 +8,11 @@ Here is a list of resources we are using to develop this project.
 
 - European Society for Clinical Nutrition and Metabolism (ESPEN) practical guidelines: [Clinical nutrition and cancer](https://www.espen.org/guidelines-home/espen-guidelines)
 
-###Cancer diet myths: 
+### Cancer diet myths: 
 
 Some breast cancer patients will start to follow alternative nutritional advice, the Association of UK Dieticians have summarised the most common ones: [Common dietary myths](https://www.bda.uk.com/resource/challenging-cancer-diets-myths.html)
 
-###Breast cancer patients' forum:
+### Breast cancer patients' forum:
 
 We consulted several breast cancer patients' forum: 
 
