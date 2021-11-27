@@ -21,7 +21,7 @@ We consulted several breast cancer patients' forum:
 - Breast Cancer now [Breast cancer now forum](https://forum.breastcancernow.org/)
 
 
-###General info available to patients: 
+### General info available to patients: 
 
 - MacMillan nutritional advice for patients preparing for treatment: [Eating well and keeping active](https://www.macmillan.org.uk/cancer-information-and-support/treatment/preparing-for-treatment/eating-well-and-keeping-active)
 

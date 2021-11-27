@@ -1,11 +1,10 @@
-## Who are we?
 
 We are a team of four researchers and medical doctors who are passionate about personalised and evidence-based medicine. 
 
 
 ### Robert Smillie - Chief Executive Officer
 
-<img src="assets/img/rob.png" alt="drawing" width="200"/>
+<img src="https://github.com/cristina86cristina/Option-AccelerateTeam4UCL/tree/gh-pages/assets/img/rob.png" alt="drawing" width="200"/>
 
 I'm an academic doctor by background. My research work is in Rheumatology where I use genetic analysis to work on novel treatments for Scleroderma. 
 
