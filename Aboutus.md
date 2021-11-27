@@ -18,7 +18,7 @@ I'm an academic doctor by background. My research work is in Rheumatology where 
 
 ### Jenni Pratita - Chief Operative Officer 
 
-<img src="assets/img/jenni.png" alt="drawing" width="200"/>
+<img src="https://cristina86cristina.github.io/Option-AccelerateTeam4UCL/assets/img/jenni.png" alt="drawing" width="200"/>
 
 I am a medical doctor undergoing training in cardiothoracic/vascular surgery who is also starting to engage in tissue engineering.
 
@@ -28,14 +28,14 @@ https://www.linkedin.com/in/jennipratita/)
 
 ### Stefan Adrian Voo - Chief Medical Officer 
 
-<img src="assets/img/stefan.png" alt="drawing" width="200"/>
+<img src="https://cristina86cristina.github.io/Option-AccelerateTeam4UCL/assets/img/stefan.png" alt="drawing" width="200"/>
 
 My background is in molecular imaging and radionuclide therapies with a special interest in infection/inflammation, rheumatologic disorders and oncology (lymphoproliferative disorders, breast and gastrointestinal cancers, sarcomas). At the UCLH, I am currently involved in clinical projects on PET- CT/PET-MRI imaging in vasculitis, lymphomas (CAR-T-therapy) and novel imaging tracers in breast oncology.
 
 
 ### Cristina Venturini - Chief Scientific Officer 
 
-<img src="assets/img/cristina.png" alt="drawing" width="200"/>
+<img src="https://cristina86cristina.github.io/Option-AccelerateTeam4UCL/assets/img/cristina.png" alt="drawing" width="200"/>
 
 
 I am a computational statistician with a keen interest in infectious diseases, genetics research and clinical applications. My
