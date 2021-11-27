@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Us
+---
+
 
 We are a team of four researchers and medical doctors who are passionate about personalised and evidence-based medicine. 
 

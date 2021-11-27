@@ -1,3 +1,9 @@
+---
+layout: page
+title: Resources
+---
+
+
 Here is a list of resources we are using to develop this project. 
 
 ### Scientific guidelines:
