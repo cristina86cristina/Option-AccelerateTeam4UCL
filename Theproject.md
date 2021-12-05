@@ -23,7 +23,7 @@ This can leave room for misinformation, alternative and non-validated nutritiona
 
 We better analysed the discussion group “Going through breast cancer treatment” in Breastcancernow forum. Most food-related and nutritional questions were related to chemotherapy, followed by questions related to hormonal therapy and surgery. Many patients were concerned at the start of their chemotherapy treatments about digestive problems (nausea and constipation) and how best to approach food during the treatment (represented in the word cloud as “chemo starter” which was mentioned 45 times in 275 threads). 
 
-![Summary dietary threads by topic](assets/img/ForumPieChart.pdf "Summary dietary threads by topic")
+![Summary dietary threads by topic](assets/img/piechart.png "Summary dietary threads by topic")
 
 ![](assets/img/wordcloud_forum.png)
 
