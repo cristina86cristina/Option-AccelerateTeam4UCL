@@ -7,6 +7,11 @@ title: Our project
 Our aim is to create a personalised nutrition service for  breast cancer patients to improve their personal wellbeing and to identify possible factors that affect response to medical treatment. 
 
 
+**The stats:**
+![](assets/img/bc_week.png)
+
+
+
 **Our preliminary research:** 
 
 We spoke with patients and they all reported a lack of diet support during treatment. 
