@@ -20,14 +20,14 @@ Here is a list of resources we are using to develop this project.
 
 - European Society for Clinical Nutrition and Metabolism (ESPEN) practical guidelines: <a href="www.espen.org/guidelines-home/espen-guidelines" style="color: white; text-decoration: underline;text-decoration-style: dotted;">Clinical nutrition and cancer</a>
 
-###Papers for developing the questionnaire: 
+### Papers for developing the questionnaire: 
 
 - Nutrition attitudes, problems and behaviours in oncology survivors: <a href="https://www.sciencedirect.com/science/article/pii/S2405457720310809" style="color: white; text-decoration: underline;text-decoration-style: dotted;">Link to the paper</a>
 
 - Information Needs of Cancer Patients and Perception of Impact of the Disease, of Self-Efficacy, and Locus of Control: <a href="https://link.springer.com/article/10.1007/s13187-015-0860-x" style="color: white; text-decoration: underline;text-decoration-style: dotted;">Link to the paper</a>
 
 
-###Papers on nutrition and breast cancer: 
+### Papers on nutrition and breast cancer: 
 - <a href="https://www.mdpi.com/2072-6643/11/7/1514" style="color: white; text-decoration: underline;text-decoration-style: dotted;">Link to the paper</a>
 
 - <a href="https://www.mdpi.com/2072-6643/11/11/2799" style="color: white; text-decoration: underline;text-decoration-style: dotted;">Link to the paper</a>
