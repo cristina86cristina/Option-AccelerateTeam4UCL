@@ -13,9 +13,9 @@ We spoke with patients and they all reported a lack of diet support during treat
 
 We also analysed two breast cancer patients’ forums: 
 
-- <a href="https://forum.breastcancernow.org/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">https://forum.breastcancernow.org/</a> (68.3K members, 1.2M posts in total)
+- <a href="https://forum.breastcancernow.org/" style="color: white; text-decoration: underline;text-decoration-style: dotted;">https://forum.breastcancernow.org/</a> (68.3K members, 1.2M posts in total)
 
-- <a href="https://community.macmillan.org.uk/cancer_types/chat-breast-cancer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">https://community.macmillan.org.uk/cancer_types/chat-breast-cancer</a> (4312 members, 24k posts in total)
+- <a href="https://community.macmillan.org.uk/cancer_types/chat-breast-cancer" style="color: white; text-decoration: underline;text-decoration-style: dotted;">https://community.macmillan.org.uk/cancer_types/chat-breast-cancer</a> (4312 members, 24k posts in total)
 
 
 Food-related issues are commonly experienced by the forums’ users and represent around the 10% of threads of both forums. Interestingly, questions are mostly asked in non-professional forum rooms. In Breastcancernow, we analysed the discussion group “Going through breast cancer treatment” which connects patients currently undergoing therapy. The group counts 2808 threads (as for 21/11/21) and 275 were identified with the search “food” (9.8%). However, only 2% posts (11/538) in the discussion group “Ask our nurses” were about nutrition and diet. Similarly, in Macmillan breast cancer chat all questions were posted in the “Chat” session of the forum and the “Ask a Dietician” session was closed over a year ago and only counted 14 members. 
