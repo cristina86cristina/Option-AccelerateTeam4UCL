@@ -8,7 +8,8 @@ Here is a list of resources we are using to develop this project.
 
 ### Scientific guidelines:
 
-- This is a comprehensive analysis from the World Cancer Research Fund of the worldwide body of evidence on preventing and surviving cancer through nutrition and physical activity: [Summary of the Third Expert Report.](https://www.wcrf.org/dietandcancer/a-summary-of-the-third-expert-report/)
+- This is a comprehensive analysis from the World Cancer Research Fund of the worldwide body of evidence on preventing and surviving cancer through nutrition and physical activity: <a href="https://www.wcrf.org/dietandcancer/a-summary-of-the-third-expert-report/" style="color: red; text-decoration: underline;text-decoration-style: dotted;">Summary of the Third Expert Report</a>
+
 
 - Here's the page from the WCRF about breast cancer: [Report and protocol](https://www.wcrf.org/dietandcancer/breast-cancer/)
 
